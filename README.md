@@ -1,6 +1,6 @@
 # ThinkPage
 
-心知天气(ThinkPage) Ruby SDK, 详细参数请见 [天气数据接口API](http://www.thinkpage.cn/weather/api/)
+心知天气(ThinkPage) Ruby SDK, 详细参数请见 [天气数据接口API](http://www.thinkpage.cn/weather/api/), 心知天气的城市列表请见 [城市列表](http://www.thinkpage.cn/weather/api/cities.aspx)
 
 ## Installation
 
