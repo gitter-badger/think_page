@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = ThinkPage::VERSION
   spec.authors       = ["Spirit"]
   spec.email         = ["neverlandxy.naix@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{心知天气(ThinkPage) Ruby SDK}
+  spec.description   = %q{心知天气(ThinkPage) Ruby SDK}
+  spec.homepage      = "https://github.com/awesome-api/think_page"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -18,6 +18,8 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
+  spec.add_dependency "oj", "~> 2.10"
+  spec.add_dependency "restclient_api_base", "~> 0.1"
   spec.add_development_dependency "bundler", "~> 1.6"
   spec.add_development_dependency "rake"
 end
