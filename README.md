@@ -1,5 +1,7 @@
 # ThinkPage
 
+[![Join the chat at https://gitter.im/awesome-api/think_page](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/awesome-api/think_page?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 心知天气(ThinkPage) Ruby SDK, 详细参数请见 [天气数据接口API](http://www.thinkpage.cn/weather/api/), 心知天气的城市列表请见 [城市列表](http://www.thinkpage.cn/weather/api/cities.aspx)
 
 ## Installation
